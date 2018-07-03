@@ -4,17 +4,23 @@ assets/style.scss:
 assets/theme.js:
   development: 2018-06-22T11:49:51-04:00   553d33d4ab2d23ee3508ff8a5a8c4d1b
 config/settings_data.json:
-  development: 2018-06-22T10:08:39-04:00   99914b932bd37a50b983c5e7c90ae93b
+  development: 2018-07-02T09:49:03-04:00   99914b932bd37a50b983c5e7c90ae93b
 config/settings_schema.json:
   development: 2018-06-29T14:12:36-04:00   0174f7f11cb5aaca04083da26fd81e6a
 layout/theme.liquid:
-  development: 2018-06-22T15:07:36-04:00   6149d85ac0e40ecd86a00305c1bc1a12
+  development: 2018-07-03T09:45:05-04:00   6459350d06302cf03d88dbf4f58e1284
+sections/footer.liquid:
+  development: 2018-07-03T13:09:38-04:00   a53b0d2e087189bea66cdb1313012e6b
 sections/header.liquid:
   development: 2018-06-22T15:15:20-04:00   a03fe635605cbd77f1265b05ef661cfa
 sections/homepage-carousel.liquid:
   development: 2018-06-29T15:02:36-04:00   9eb67cfbad2796cdac5046f4be8ca5dc
+sections/homepage-products.liquid:
+  development: 2018-07-02T10:59:05-04:00   2dcd5d45b34e7561981326a0c65f480f
+sections/newsletter.liquid:
+  development: 2018-07-03T09:43:10-04:00   03c0255ca8fbaa8f3bf824342ca4100a
 sections/product-category-banners.liquid:
-  development: 2018-06-29T16:15:06-04:00   8637c3fa58973ff70ea56d6e5422725f
+  development: 2018-07-02T09:48:52-04:00   7bcb02786776d7c079dde883296810f5
 snippets/menu.liquid:
   development: 2018-06-22T16:55:00-04:00   c6e36b38238f36fab3b8eb3b51596eaf
 snippets/page-header.liquid:
@@ -22,7 +28,7 @@ snippets/page-header.liquid:
 templates/404.liquid:
   development: 2018-06-22T10:08:38-04:00   153e2e400162f1ffc97dba4700b0d62b
 templates/article.liquid:
-  development: 2018-06-22T10:08:38-04:00
+  development: 2018-07-02T09:48:55-04:00
 templates/blog.liquid:
   development: 2018-06-22T10:08:38-04:00
 templates/cart.liquid:
@@ -30,9 +36,9 @@ templates/cart.liquid:
 templates/collection.liquid:
   development: 2018-06-22T10:08:38-04:00
 templates/index.liquid:
-  development: 2018-06-29T15:53:44-04:00   d2dc5ef02c62bf78d923f45b99c885f0
+  development: 2018-07-03T09:38:42-04:00   32871410997e9b680c02b5368c7f5a53
 templates/list-collections.liquid:
-  development: 2018-06-22T10:08:39-04:00
+  development: 2018-07-02T09:48:58-04:00
 templates/page.about.liquid:
   development: 2018-06-29T12:23:02-04:00   aa404c17dc2ec085995803e21bcacf31
 templates/page.contact.liquid:
@@ -40,8 +46,8 @@ templates/page.contact.liquid:
 templates/page.liquid:
   development: 2018-06-29T11:31:38-04:00   86ca35d02fe0c0784998575862f94bdb
 templates/password.liquid:
-  development: 2018-06-22T10:08:39-04:00
+  development: 2018-07-02T09:48:53-04:00
 templates/product.liquid:
   development: 2018-06-22T10:08:39-04:00
 templates/search.liquid:
-  development: 2018-06-22T10:08:39-04:00
+  development: 2018-07-02T09:48:56-04:00
