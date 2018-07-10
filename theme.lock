@@ -9,6 +9,8 @@ config/settings_schema.json:
   development: 2018-06-29T14:12:36-04:00   0174f7f11cb5aaca04083da26fd81e6a
 layout/theme.liquid:
   development: 2018-07-03T09:45:05-04:00   6459350d06302cf03d88dbf4f58e1284
+sections/collection-template.liquid:
+  development: 2018-07-10T12:36:50-04:00   ae1a229903781bdb381f2999e9c4c6ac
 sections/footer.liquid:
   development: 2018-07-03T13:09:38-04:00   a53b0d2e087189bea66cdb1313012e6b
 sections/header.liquid:
@@ -34,7 +36,7 @@ templates/blog.liquid:
 templates/cart.liquid:
   development: 2018-06-22T10:08:38-04:00
 templates/collection.liquid:
-  development: 2018-06-22T10:08:38-04:00
+  development: 2018-07-09T12:46:03-04:00   3dbe65a8b0419aeb76b3b35d2fbb1425
 templates/index.liquid:
   development: 2018-07-03T09:38:42-04:00   32871410997e9b680c02b5368c7f5a53
 templates/list-collections.liquid:
@@ -48,6 +50,6 @@ templates/page.liquid:
 templates/password.liquid:
   development: 2018-07-02T09:48:53-04:00
 templates/product.liquid:
-  development: 2018-06-22T10:08:39-04:00
+  development: 2018-07-10T13:04:35-04:00   e92223c2ff063e228f55ffbd7e8d2302
 templates/search.liquid:
   development: 2018-07-02T09:48:56-04:00
